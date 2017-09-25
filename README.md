@@ -1,2 +1,2 @@
 # PHYS7321_HW
-Homework for Northeastern University Computational Physics, with Prof. Feiguin.
+Abraham Tishelman-Charny's Homework for Northeastern University Computational Physics, with Prof. Feiguin.
